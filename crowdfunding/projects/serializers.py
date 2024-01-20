@@ -27,7 +27,7 @@ class ProjectSerializer(serializers.ModelSerializer):
     # date_created = serializers.DateTimeField()
     # owner = serializers.CharField(max_length = 250)
         
-class ProjectDetailSerializer(serializers.ModelSerializer):
+class ProjectDetailSerializer(ProjectSerializer):
     pledges = PledgeSerializer(many=True, read_only=True)
     def update(self, instance , validated_data):
         instance.title = validated_data.get('title', instance.title)
