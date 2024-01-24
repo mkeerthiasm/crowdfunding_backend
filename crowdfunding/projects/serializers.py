@@ -5,27 +5,14 @@ class PledgeSerializer(serializers.ModelSerializer):
     class Meta:
         model = Pledge
         fields = '__all__'
-    # id = serializers.ReadOnlyField()
-    # amount = serializers.IntegerField()
-    # comment = serializers.CharField(max_length=200)
-    # anonymous = serializers.BooleanField()
-    # project = serializers.IntegerField()
-    # supporter = serializers.CharField(max_length = 250)
-
+    
 
 class ProjectSerializer(serializers.ModelSerializer):
     owner = serializers.ReadOnlyField(source='owner.id')
     class Meta:
         model = Project
         fields = '__all__'
-    # id = serializers.ReadOnlyField()
-    # title = serializers.CharField(max_length=200)
-    # description = serializers.CharField(max_length=None)
-    # goal = serializers.IntegerField()
-    # image = serializers.URLField()
-    # is_open = serializers.BooleanField()
-    # date_created = serializers.DateTimeField()
-    # owner = serializers.CharField(max_length = 250)
+    
         
 class ProjectDetailSerializer(ProjectSerializer):
     pledges = PledgeSerializer(many=True, read_only=True)
