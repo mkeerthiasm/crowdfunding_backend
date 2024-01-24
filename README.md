@@ -5,11 +5,11 @@
 
 
 ### About Kindlyfund
-{{ Childhood should be a canvas splashed with vibrant hues of fun and possibility. But for some children, those colors can fade. Kindly Fund is a paintbrush dipped in kindness, ready to reimagine their world with the magic of toys. Each donation, like a brushstroke, adds a splash of joy, a burst of laughter, and a reminder that even the smallest dreams deserve to shine. }}
+Childhood should be a canvas splashed with vibrant hues of fun and possibility. But for some children, those colors can fade. Kindly Fund is a paintbrush dipped in kindness, ready to reimagine their world with the magic of toys. Each donation, like a brushstroke, adds a splash of joy, a burst of laughter, and a reminder that even the smallest dreams deserve to shine. 
 
 
 ### User Stories
-{{ As a caring individual who believes every child deserves a joyful childhood, I want to donate to Kindly Fund so I can help bring the magic of toys to children facing challenges, filling their lives with laughter, imagination, and a reminder that their dreams matter.}}
+ As a caring individual who believes every child deserves a joyful childhood, I want to donate to Kindly Fund so I can help bring the magic of toys to children facing challenges, filling their lives with laughter, imagination, and a reminder that their dreams matter.
 
 
 ### Intended Audience/
