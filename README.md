@@ -30,9 +30,17 @@ Childhood should be a canvas splashed with vibrant hues of fun and possibility. 
 
 
 ## App developed with:
-![python_logo](https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/7c721fc0-429f-4154-9ac1-48f804e4ab86)
-![db_logo](https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/e64f2e81-3b![drf_logo](https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/bbc7cb70-66d2-4d94-9b5d-4a82c05e99ad)
-8d-41ac-adf9-8c517c1c6f26)
-![fly_logo](https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/00788c6f-890b-4a81-9f1f-95054da8ffa5)
 
-![api_logo](https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/52123f36-1147-4b2e-89b7-e496aa0662c0)
+![python_logo](https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/ac050810-6a34-44b4-acdf-e087c236f482)
+
+
+![drf_logo](https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/2884d595-36a2-4e41-b023-cc8dd29a5544)
+
+
+![fly_logo](https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/5ff86fa5-edaf-4761-b6c6-c6efab60be79)
+
+
+![api_logo](https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/fe88e589-9729-4d92-bd96-ee8f2a562f2d)
+
+
+![db_logo](https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/b0e7d806-51fc-48dd-ab79-8ec99fbc73d0)
