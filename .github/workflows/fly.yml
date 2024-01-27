@@ -3,9 +3,10 @@ on:
   push:
     branches:
       - master
-      - main
+      
 jobs:
   deploy:
+    name: Deploy app
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
