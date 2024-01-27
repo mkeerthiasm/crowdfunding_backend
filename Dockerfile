@@ -16,10 +16,12 @@ RUN set -ex && \
     rm -rf /root/.cache/
 COPY crowdfunding/  /code/
 
-ENV SECRET_KEY "fvmeg12hIGrHhkxBvB0G9q38e8epCX0bsvIh3urW7zmGKNDHmV"
+
 RUN python manage.py collectstatic --noinput
 RUN chmod +x /code/run.sh
 
 EXPOSE 8000
 
 CMD ["/code/run.sh"]
+
+
