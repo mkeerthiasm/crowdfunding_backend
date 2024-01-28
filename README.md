@@ -43,3 +43,28 @@ Childhood should be a canvas splashed with vibrant hues of fun and possibility. 
 
 ![db_logo](https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/bac7a56d-808a-4b63-bbfb-bbf74097050b)
 
+## REST API Specification Screenshots
+
+## Projects -GET_Method
+
+<img width="1440" alt="Projects_GET_method" src="https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/106cf4a0-4087-4d05-94dd-616c450398c2">
+
+## Projects-POST_Method
+
+<img width="1440" alt="Project creation_201_POST_Method" src="https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/5f7180b2-ef96-4ae1-aaf1-25d5ffca7290">
+
+## Users-GET_Method
+
+<img width="1434" alt="Users-Get_method" src="https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/eef0eb86-df57-4042-8613-edfba04e32d2">
+
+## Users - POST_Method
+
+<img width="1437" alt="Users-POSTmethod" src="https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/efec915d-3ebb-4bff-ad65-ceaab5dca4d5">
+
+## Pledges -GET_Method
+
+<img width="1427" alt="Pledge-GET_method" src="https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/4c3ef28f-b2d3-4d71-8ee7-781efc5680d6">
+
+## Pledges- POST_Method
+
+<img width="723" alt="Pledges-POST method" src="https://github.com/mkeerthiasm/crowdfunding_backend/assets/147217244/ba137bfc-6cb4-4e99-91f2-4fdc1535cba1">
